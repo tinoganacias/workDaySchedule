@@ -1,0 +1,56 @@
+header {
+    background-color: #0e7288;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+#dateAndTime {
+
+    font-weight: bold;
+}
+
+#timer {
+    border:3px solid black;
+    background-color: yellow;
+}
+
+.input {
+    width:900px;
+}
+
+.jumbotron {
+  text-align: center;
+ 
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+
+
+.container {
+
+    text-align: center;
+   
+}
+
+.event {
+
+    background-color: red;
+    
+    
+    
+}
